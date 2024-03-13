@@ -3,8 +3,8 @@ Sileo exports and other helpful data from my jailbroken iPhone.
 
 <details>
   <summary>Homescreen</summary>
-  <img loading="lazy" width="30px" src=".screenshots/2024 03 24/Homescreen.PNG" alt="Homescreen png" />
-<details>
+  <img loading="lazy" width="30px" src="screenshots/2024 03 24/Homescreen.PNG" alt="Homescreen png" />
+</details>
   <summary>Sileo Export</summary>
 <code> 
 Alderis Color Picker:(ws.hbang.alderis) 1.2.3   
