@@ -6,6 +6,18 @@ Sileo exports and other helpful data from my jailbroken iPhone.
   <img loading="lazy" width="60%" src="screenshots/2024 03 24/Homescreen.PNG" alt="Homescreen png" />
 </details>
 <details>
+  <summary>Widgets</summary>
+  <img loading="lazy" width="60%" src="screenshots/2024 03 24/Widgets.PNG" alt="Widgets png" />
+</details>
+<details>
+  <summary>TrollStore</summary>
+  <img loading="lazy" width="60%" src="screenshots/2024 03 24/TrollStore.PNG" alt="TrollStore png" />
+</details>
+<details>
+  <summary>TrollApps Repos</summary>
+  <img loading="lazy" width="60%" src="screenshots/2024 03 24/TrollApps.PNG" alt="TrollApps png" />
+</details>
+<details>
   <summary>Sileo Export</summary>
 <code> 
 Alderis Color Picker:(ws.hbang.alderis) 1.2.3   
