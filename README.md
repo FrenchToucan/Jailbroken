@@ -4,7 +4,7 @@ Sileo exports and other helpful data from my jailbroken iPhone.
 <details>
 <summary>Sileo Export</summary>
 Alderis Color Picker:(ws.hbang.alderis) 1.2.3
-AltList:(com.opa334.altlist) 1.0.10
+  AltList:(com.opa334.altlist) 1.0.10
 April:(me.luki.april) 3.1
 apt:(apt) 2.7.1
 Atria:(me.lau.atria) 1.4.1
